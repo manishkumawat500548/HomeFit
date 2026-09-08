@@ -14,8 +14,6 @@ HomeFit is a simple and modern fitness tracking app designed to help users recor
 | ----------------------------------- | ----------------------------------------- | ------------------------------------- |
 | ![Profile Screen](screenshots/profileScreen.jpg) | ![WorkoutDetail](screenshots/workoutDetailScreen.jpg) | ![Settings](screenshots/exerciseScreen.jpg) |
 
----
-
 ## ✨ Features
 
 * 🏋️ **Workout Tracking**
